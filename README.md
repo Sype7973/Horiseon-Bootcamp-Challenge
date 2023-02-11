@@ -11,7 +11,7 @@ Provide a short description explaining the what, why, and how of your project. U
 
 ## Installation
 
-Currently deployed on Github using Github deployment and can be accessed through link below:
+Currently deployed on Github using Github URL deployment.
 
 ## Usage
 
