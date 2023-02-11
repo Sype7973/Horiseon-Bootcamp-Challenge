@@ -2,8 +2,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 - The motivation for this project was updating the Horiseon website to be more accessible to avoid any litigation based on unaccessible elements on the website. 
 - Also to improve website backend including HTML semantics and classifications
 - Inaccessibility and modifies code to be easier to understand by future devs
