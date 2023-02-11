@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* Header and nav title has colour, positioning and font style */
+/* Modifies Header and nav title has colour, positioning and font style */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-/* background image banner positioning and size of page */
+/* modifies background image banner positioning and size of page */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,7 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/* container for positioning images across main */
+/* modifies container; positioning and margin for images across main */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -74,7 +74,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/* aside content colour, margin, positioning and font style */
+/* Modifies aside content colour, margin, positioning and font style */
 .benefits {
     margin-right: 20px;
     padding: 20px;
