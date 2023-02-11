@@ -11,6 +11,8 @@
 
 Currently deployed on Github using Github URL deployment.
 
+https://sype7973.github.io/Horiseon-Clean-and-Access/
+
 ## Usage
 
 Simple website with navigation links in the header to direct you to articles related to link
