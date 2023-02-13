@@ -31,16 +31,12 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
-.header nav ul {
-    list-style-type: none;
-}
-
+/* removed redundant nav style */
 .header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
+/* nav links color and text decoration  */
 a {
     color: #ffffff;
     text-decoration: none;
